@@ -1,0 +1,9 @@
+<suite name="FrameWork">
+  
+  <test name="KeyWord Driven">
+    <classes>
+ <class name="propertiesFile.PropertiesTest1"/>
+    </classes>
+  </test>
+
+</suite>
